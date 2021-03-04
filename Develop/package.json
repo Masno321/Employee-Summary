@@ -1,0 +1,29 @@
+{
+  "name": "unit10hw",
+  "version": "1.0.0",
+  "description": "OOP and testing for week 10 homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Masno321/Employee-summary"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masno321/Employee-summary"
+  },
+  "homepage": "https://github.com/Masno321/Employee-summary",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
