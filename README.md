@@ -26,7 +26,10 @@ Run npm install to install all dependencies
 
 9.  Go to the output folder, find team.html and open it in your default web browser. this is your output web page for your team. It should look similar to below.
 
-## screen recording
+## screenshot
+<img width="1074" alt="Screen Shot 2021-03-03 at 8 52 28 PM" src="https://user-images.githubusercontent.com/71602304/110402473-121c3480-8041-11eb-8d64-3b32ef6a88f5.png">
+
+
 
 
 
