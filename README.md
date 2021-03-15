@@ -1,3 +1,4 @@
+
 # Employee Summary
 
 This Node application will assist managers in generating a webpage that displays their team's basic info for quick access to emails and GitHub Profiles.
@@ -29,8 +30,7 @@ Run npm install to install all dependencies
 ## screenshot
 <img width="1074" alt="Screen Shot 2021-03-03 at 8 52 28 PM" src="https://user-images.githubusercontent.com/71602304/110402473-121c3480-8041-11eb-8d64-3b32ef6a88f5.png">
 
-
-
+https://user-images.githubusercontent.com/71602304/111089343-6a4bae80-84f9-11eb-9667-326a5dffb2f5.mp4
 
 
 ## Tool & Resources
